@@ -5,3 +5,4 @@
 3. Passport
 4. JWT
 5. OneAuth
+6. Bcrypt
